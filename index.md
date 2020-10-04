@@ -13,9 +13,39 @@ Tool                                            | Evaluate           | Optimize 
 ➄ TellMyRelevance!                          |                    | :heavy_check_mark: |                    | [:octocat:/tellmyrelevance-resources](https://github.com/maxspeicher/tellmyrelevance-resources)
 ➅ StreamMyRelevance!                        |                    | :heavy_check_mark: |                    | [:octocat:/streammyrelevance-resources](https://github.com/maxspeicher/streammyrelevance-resources)
 
+## The Thesis
+
+:green_book: [Full Text](https://www.researchgate.net/publication/308652443_Search_Interaction_Optimization_A_Human-Centered_Design_Approach)
+
+:orange_book: [Deutsche Nationalbibliothek](http://d-nb.info/1117484890)
+
 ## Publications
 
-to be continued ...
+[13] Maximilian Speicher, Sebastian Nuck, Lars Wesemann, Andreas Both, and Martin Gaedke (2015). [From TMR to Turtle: Predicting Result Relevance From Mouse Cursor Interactions in Web Search](https://www.researchgate.net/publication/282441248_From_TMR_to_Turtle_Predicting_Result_Relevance_from_Mouse_Cursor_Interactions_in_Web_Search). In: *Journal of Web Engineering*.
+
+[12] Maximilian Speicher, Andreas Both, and Martin Gaedke (2015). [Iɴᴜɪᴛ: The Interface Usability Instrument](https://www.researchgate.net/publication/282441105_Inuit_The_Interface_Usability_Instrument). In: *Proc. DUXU*.
+
+[11] Maximilian Speicher, Andreas Both, and Martin Gaedke (2015). [S.O.S.: Does Your Search Engine Results Page (SERP) Need Help?](https://www.researchgate.net/publication/282441131_SOS_Does_Your_Search_Engine_Results_Page_SERP_Need_Help) In: *Proc. CHI*. :medal_sports: Best Paper Honorable Mention Award.
+
+[10] Maximilian Speicher (2015). [What is Usability? A Characterization based on ISO 9241-11 and ISO/IEC 25010](https://www.researchgate.net/publication/272845573_What_is_Usability_A_Characterization_based_on_ISO_9241-11_and_ISOIEC_25010). Technical Report. Department of Computer Science, Technische Universität Chemnitz.
+
+[9] Andreas Both, Axel-Cyrille Ngonga Ngomo, Ricardo Usbeck, Denis Lukovnikov, Christiane Lemke and Maximilian Speicher (2014). [A Service-oriented Search Framework for Full Text, Geospatial and Semantic Search](https://www.researchgate.net/publication/264412714_A_Service-oriented_Search_Framework_for_Full_Text_Geospatial_and_Semantic_Search). In: *Proc. SEMANTiCS*.
+
+[8] Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). [Ensuring Web Interface Quality through Usability-based Split Testing](https://www.researchgate.net/publication/271269916_Ensuring_Web_Interface_Quality_through_Usability-Based_Split_Testing). In: *Proc. ICWE*.
+
+[7] Maximilian Speicher, Sebastian Nuck, Andreas Both, and Martin Gaedke (2014). [StreamMyRelevance! Prediction of Result Relevance from Real-Time Interactions and its Application to Hotel Search](https://www.researchgate.net/publication/263167518_StreamMyRelevance_Prediction_of_Result_Relevance_from_Real-Time_Interactions_and_its_Application_to_Hotel_Search). In: *Proc. ICWE*.
+
+[6] Maximilian Speicher, Andreas Both, and Martin Gaedke (2014). [WaPPU: Usability-based A/B Testing](https://www.researchgate.net/publication/271269917_WaPPU_Usability-based_AB_Testing). In: *Proc. ICWE (Demos)*.
+
+[5] Maximilian Speicher (2014). [Paving the Path to Content-Centric and Device-Agnostic Web Design](https://www.researchgate.net/publication/282440341_Paving_the_Path_to_Content-Centric_and_Device-Agnostic_Web_Design). In: *Proc. ICWE (Posters)*.
+
+[4] Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). [TellMyRelevance! Predicting the Relevance of Web Search Results from Cursor Interactions](https://www.researchgate.net/publication/301430241_TellMyRelevance_Predicting_the_Relevance_of_Web_Search_Results_from_Cursor_Interactions). In: *Proc. CIKM*.
+
+[3] Michael Röder, Maximilian Speicher, and Ricardo Usbeck (2013). [Investigating Quality Raters' Performance Using Interface Evaluation Methods](https://www.researchgate.net/publication/256976967_Investigating_Quality_Raters'_Performance_Using_Interface_Evaluation_Methods). In: *Proc. INFORMATIK (Posters)*.
+
+[2] Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). [Towards Metric-based Usability Evaluation of Online Web Interfaces](https://www.researchgate.net/publication/271269915_Towards_Metric-based_Usability_Evaluation_of_Online_Web_Interfaces). In: *Mensch & Computer Workshopband*.
+
+[1] Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). [Was that Webpage Pleasant to Use? Predicting Usability Quantitatively from Interactions](https://www.researchgate.net/publication/249009509_Was_That_Webpage_Pleasant_to_Use_Predicting_Usability_Quantitatively_from_Interactions). In: *Proc. ICWE Workshops*.
 
 ## Abstract
 
@@ -35,41 +65,6 @@ Based on a user study and large-scale log analysis involving real-world search e
 
 The thesis concludes with a discussion of the potential and limitations of the above contributions and provides an overview of potential future work.
 
+---
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/maxspeicher/phdthesis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxspeicher/phdthesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2013‒2020 by Maximilian Speicher
